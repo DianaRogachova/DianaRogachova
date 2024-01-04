@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **diana.rogachova4@gmail.com**
 
-- ⚡ Fun fact **I learn to narrate audio books in my free time.**
+- ⚡ Fun fact **I learn to narrate audiobooks in my free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
