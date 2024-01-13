@@ -1,9 +1,6 @@
 <h1 align="left">Hi there 👋,  I'm Diana</h1>
 <h3 align="left">A Data Scientist from Canada</h3>
 
-![DALL·E 2024-01-04 13 37 36 - A cartoon-like drawing of a girl developer sitting in front of a computer in a dim lighted room doing coding   ](https://github.com/DianaRogachova/DianaRogachova/assets/130624149/05520c9f-41f6-4b9e-b5cf-8f2d790211a4)
-
-
 - 🔭 I’m currently working on **Start to End Machine Learning Solution on AWS**
 
 - 🌱 I’m currently learning **LLMs, Computer Vision**
@@ -13,6 +10,8 @@
 - 📫 How to reach me **diana.rogachova4@gmail.com**
 
 - ⚡ Fun fact **I learn to narrate audiobooks in my free time.**
+
+![DALL·E 2024-01-04 13 37 36 - A cartoon-like drawing of a girl developer sitting in front of a computer in a dim lighted room doing coding   ](https://github.com/DianaRogachova/DianaRogachova/assets/130624149/05520c9f-41f6-4b9e-b5cf-8f2d790211a4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
