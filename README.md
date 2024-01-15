@@ -11,8 +11,6 @@
 
 - ⚡ Fun fact **I learn to narrate audiobooks in my free time.**
 
-![DALL·E 2024-01-04 13 37 36 - A cartoon-like drawing of a girl developer sitting in front of a computer in a dim lighted room doing coding   ](https://github.com/DianaRogachova/DianaRogachova/assets/130624149/05520c9f-41f6-4b9e-b5cf-8f2d790211a4)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/diana_rogachova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="diana_rogachova" height="30" width="40" /></a>
