@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋,  I'm Diana</h1>
-<h3 align="left">A Data Scientist from Canada</h3>
+<h3 align="left">A Data Science Graduate from Canada</h3>
 
 - 🔭 I’m currently working on **Start to End Machine Learning Solution on AWS**
 
