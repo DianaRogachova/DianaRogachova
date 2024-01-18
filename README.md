@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning about **Generative AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DianaRogachova](https://github.com/DianaRogachova)
+- 👨‍💻 All of my projects are available at: [https://github.com/DianaRogachova](https://github.com/DianaRogachova)
 
 - 📫 How to reach me: **diana.rogachova4@gmail.com**
 
