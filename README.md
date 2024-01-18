@@ -1,15 +1,15 @@
 <h1 align="left">Hi there 👋,  I'm Diana</h1>
 <h3 align="left">A Data Science Graduate from Canada</h3>
 
-- 🔭 I’m currently working on **Start to End Machine Learning Solution on AWS**
+- 🔭 I’m currently working on the project called **"Start to End Machine Learning Solution on AWS"**
 
-- 🌱 I’m currently learning **LLMs, Computer Vision**
+- 🌱 I’m currently learning about **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DianaRogachova](https://github.com/DianaRogachova)
 
-- 📫 How to reach me **diana.rogachova4@gmail.com**
+- 📫 How to reach me: **diana.rogachova4@gmail.com**
 
-- ⚡ Fun fact **I learn to narrate audiobooks in my free time.**
+- ⚡ Fun fact about me, **I learn to narrate audiobooks in my free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
