@@ -1,13 +1,13 @@
 <h1 align="left">Hi there 👋,  I'm Diana</h1>
 <h3 align="left">A Data Science Graduate from Canada</h3>
 
-- 🔭 I’m currently working on the project called **"Secure Orchestration of RAG on cloud"**
+- 🔭 I’m currently working on the project called **"Secure Orchestration of RAG on Cloud."**
 
-- 🌱 I’m currently learning about **Generative AI, RAG, cloud resources**
+- 🌱 I’m currently learning about **Generative AI, RAG, cloud resources.**
 
-- 👨‍💻 All of my projects are available at: [https://github.com/DianaRogachova](https://github.com/DianaRogachova)
+- 👨‍💻 All of my projects are available at: [https://github.com/DianaRogachova](https://github.com/DianaRogachova).
 
-- 📫 How to reach me: **diana.rogachova4@gmail.com**
+- 📫 How to reach me: **diana.rogachova4@gmail.com.**
 
 - ⚡ Fun fact about me, **I learn to narrate audiobooks in my free time.**
 
