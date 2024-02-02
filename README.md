@@ -1,9 +1,9 @@
 <h1 align="left">Hi there 👋,  I'm Diana</h1>
 <h3 align="left">A Data Science Graduate from Canada</h3>
 
-- 🔭 I’m currently working on the project called **"Start to End Machine Learning Solution on AWS"**
+- 🔭 I’m currently working on the project called **"Secure Orchestration of RAG on cloud"**
 
-- 🌱 I’m currently learning about **Generative AI**
+- 🌱 I’m currently learning about **Generative AI, RAG, cloud resources**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/DianaRogachova](https://github.com/DianaRogachova)
 
