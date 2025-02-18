@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **diana.rogachova4@gmail.com.**
 
-- ⚡ Fun fact about me, **I love travelling, photography, and making travel videos.**
+- 🎥 Fun fact about me, **I love travelling, photography, and making travel videos.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
