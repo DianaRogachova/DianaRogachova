@@ -1,15 +1,15 @@
-<h1 align="left">Hi there 👋,  I'm Diana</h1>
-<h3 align="left">A Data Science Graduate from Canada</h3>
+<h1 align="left">Hi there,  I'm Diana</h1>
+<h3 align="left">A Data Science Graduate Student from Canada</h3>
 
-- 🔭 I’m currently working on the project called **"Secure Orchestration of RAG on Cloud."**
+- 🔭 I’m currently working on the project called **"Autonomous AI agents for Object Recognition"**
 
-- 🌱 I’m currently learning about **Generative AI, RAG, cloud resources.**
+- 🌱 I’m currently learning about **Natutal Language Processing, Geospatial Data, Multimodal LLMs.**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/DianaRogachova](https://github.com/DianaRogachova).
 
 - 📫 How to reach me: **diana.rogachova4@gmail.com.**
 
-- ⚡ Fun fact about me, **I learn to narrate audiobooks in my free time.**
+- ⚡ Fun fact about me, **I love travelling, photography amd making travel videos.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
